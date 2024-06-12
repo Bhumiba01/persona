@@ -75,19 +75,6 @@ export const AvatarDownloadOptionModal = ({
                     );
                   })}
                 </div>
-                <div className="mt-2">
-                  <p className="text-sm">
-                    Thanks for using Persona! ❤️ <br />
-                    Consider&nbsp;
-                    <a
-                      className="text-black underline"
-                      href="https://buymeacoffee.com/wilmerterrero"
-                    >
-                      buy me a coffee
-                    </a>{" "}
-                    to support the project
-                  </p>
-                </div>
               </Dialog.Panel>
             </Transition.Child>
           </div>
